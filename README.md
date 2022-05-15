@@ -4,3 +4,5 @@
 2. Implement Azure Build Pipelines (Continuous Integration Pipelines)
 3. Implement Azure Release Pipelines (Continuous Delivery Pipelines)
 4. [Github SSH Connection](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/about-ssh)
+
+[![Build Status](https://dev.azure.com/kimikilabcouk01/terraform-azure-devops/_apis/build/status/Terraform%20Continuous%20Integration%20(CI)%20Pipeline?branchName=main)](https://dev.azure.com/kimikilabcouk01/terraform-azure-devops/_build/latest?definitionId=5&branchName=main)
